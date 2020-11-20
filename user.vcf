@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Umesh;K;;;
+FN: Umesh K 
+ORG:otsfm.in;
+TITLE:Project Head, Okhil Tech Solutions Pvt. Ltd
+EMAIL;type=INTERNET;type=WORK;type=pref:umesh@otsfm.in
+TEL;type=WORK;type=VOICE:+91 0740 145453
+item1.ADR;type=WORK;type=pref:;;602 A, 4th Main, 6th Stage
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:otsfm.in
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
